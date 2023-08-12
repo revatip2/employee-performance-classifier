@@ -1,4 +1,4 @@
-# InsightfulHR: Employee Performance Analysis
+# EffiHR: Empowering HR with Data-Driven Insights
 
 Welcome to the AI-Driven Performance Insight Engine repository. This project showcases the implementation of advanced machine learning techniques to revolutionize HR decision-making. By harnessing the power of Random Forest and Gradient Boosting algorithms, we have developed a predictive model that accurately classifies employees' performance, enabling data-driven HR decisions.
 
